@@ -19,6 +19,9 @@ Hope this book helped you get the basics.  GitBook and GitHub integrate beautifu
 ## References
 
 1. [GitBook Help](https://help.gitbook.com)  
+2. GitHub Image
+
+ ![](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)
 
 
 
